@@ -1,0 +1,61 @@
+--------------------
+Date: 2:11:2021
+Time: 12:13
+Group_id: AXS
+Message: El AXS bajó de los $130 
+Precio actual: $139.5625027
+--------------------
+Date: 2:11:2021
+Time: True:30
+Group_id: AXS
+Message: El AXS bajó de los $130 
+Precio actual: $139.989394
+--------------------
+Date: 2:11:2021
+Time: 0:30
+Group_id: AXS
+Message: El AXS bajó de los $130 
+Precio actual: $139.989394
+--------------------
+Date: 2:11:2021
+Time: 0:0
+Group_id: AXS
+Message: El AXS bajó de los $130 
+Precio actual: $140.427276
+--------------------
+Date: 2:11:2021
+Time: 12:19
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0644804
+--------------------
+Date: 2:11:2021
+Time: 12:20
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0644804
+--------------------
+Date: 2:11:2021
+Time: 12:21
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0644804
+--------------------
+Date: 2:11:2021
+Time: 12:21
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0745906
+--------------------
+Date: 2:11:2021
+Time: 12:21
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0745906
+--------------------
+Date: 2:11:2021
+Time: 12:21
+Group_id: AXS
+Message: eL axs BAJÓ DE LOS $130 
+pRECIO ACTUAL: $140.0120016
+--------------------
